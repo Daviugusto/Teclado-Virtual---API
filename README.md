@@ -11,8 +11,11 @@ Layout semelhante ao de um teclado real
 
 
 🛠️ Tecnologias
+
 HTML5
+
 CSS3
+
 JavaScript
 
 
