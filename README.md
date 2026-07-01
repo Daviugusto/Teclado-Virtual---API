@@ -8,10 +8,14 @@ Suporte às principais teclas
 Atualização dinâmica do texto
 Interface responsiva
 Layout semelhante ao de um teclado real
+
+
 🛠️ Tecnologias
 HTML5
 CSS3
 JavaScript
+
+
 🎯 Objetivo
 
 Praticar manipulação do DOM, eventos em JavaScript, lógica de programação e construção de componentes interativos para aplicações web.
